@@ -1,0 +1,28 @@
+{
+	"name": "exercise-tracker",
+	"version": "0.1.0",
+	"description": "Mini full-stack appilcation. Create users and track their exercises",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"body-parser": "~1.20.2",
+		"cors": "~2.8.5",
+		"dotenv": "~8.2.0",
+		"express": "~4.16.4",
+		"mongoose": "~8.2.2"
+	},
+	"repository": {
+		"url": "https://github.com/chandonn/exercise-tracker"
+	},
+	"license": "MIT",
+	"keywords": [
+		"node",
+		"express",
+        "RESTAPI",
+        "full-stack",
+        "back-end",
+        "mongodb"
+	]
+}
